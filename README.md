@@ -4,3 +4,4 @@ I have used pandas, numpy and matplotlib for data cleaning and outlier removal. 
 Linear Regression fit our data pretty well. So I have used sklearn to model and train Linear Regression.  
 I have used Flask for the website which uses our ml model to predict property prices.
 ![Uploading image.png…]()
+
